@@ -18,7 +18,7 @@ As a kid, I spent my summers in the garage tearing down and reassembling old eng
 
 - 🌱 I’m currently learning ... React, Javascript and Typescript
 - 💬 Ask me about anything!;
-- ⚡ Fun fact: ... alongside code, I also write Film, TV & Music
+- ⚡ Fun fact: ... alongside code, I also write Film/TV & Music, and enjoy repairing and building cars. 
 - 📫 How to reach me: daniel.danielarchibald@gmail.com;
 - <a href='https://admiring-pike-75c4b2.netlify.app/' target="_blank">My Website</a>
 

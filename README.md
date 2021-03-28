@@ -10,8 +10,7 @@
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://admiring-pike-75c4b2.netlify.app/)
 
 - 🌱 I’m currently learning ... JS, React, and Java
-- 💬 Ask me about anything!;
-- ⚡ Fun fact: ... alongside code, I also write Film/TV & Music, and enjoy repairing and building cars. 
+- 💬 ⚡ Ask me about anything!
 - 📫 How to reach me: daniel.danielarchibald@gmail.com;
 - <a href='https://admiring-pike-75c4b2.netlify.app/' target="_blank">My Website</a>
 

@@ -9,14 +9,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-archibald-4213389b/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://admiring-pike-75c4b2.netlify.app/)
 
-I am a Web Developer. In 2019 I attended App Academy in San Francisco.
-
-I enjoy writing software, I love to work with others on projects in and outside of code, and I read medium articles like newspaper. 
-
-As a kid, I spent my summers in the garage tearing down and reassembling old engines. :wrench: (still love to, never really grew up)
-
-
-- 🌱 I’m currently learning ... React, Javascript and Typescript
+- 🌱 I’m currently learning ... JS, React, and Java
 - 💬 Ask me about anything!;
 - ⚡ Fun fact: ... alongside code, I also write Film/TV & Music, and enjoy repairing and building cars. 
 - 📫 How to reach me: daniel.danielarchibald@gmail.com;

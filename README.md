@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning ... JS, React, and Java
 - 💬 ⚡ Ask me about anything!
-- 📫 How to reach me: daniel.danielarchibald@gmail.com;
+- 📫 How to reach me: https://www.linkedin.com/in/daniel-archibald-4213389b/;
 - <a href='https://admiring-pike-75c4b2.netlify.app/' target="_blank">My Website</a>
 
 </br>

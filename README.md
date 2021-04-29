@@ -1,4 +1,4 @@
-### Hi there, I'm <a href="https://admiring-pike-75c4b2.netlify.app/" target="_blank">Daniel Archibald</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there! I'm <a href="https://admiring-pike-75c4b2.netlify.app/" target="_blank">Daniel Archibald</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <!--
 **PagoDingo/PagoDingo**
 -->

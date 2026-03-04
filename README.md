@@ -1,4 +1,4 @@
-# <a href="https://pagodingo.lol/" target="_blank">➘🕳➚</a>
+# <a href="https://dan.archi/" target="_blank">➘🕳➚</a>
 <!--
 **PagoDingo/PagoDingo**
 -->

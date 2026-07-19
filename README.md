@@ -8,4 +8,4 @@ Check it out and let me know what you think. I haven't been coding much lately..
 <br><br>
 That isn't to say I've given up on tech.
 <br><br>
-My next project(s) will be towards my goal of fueling the ☀️ within me.
+My next project(s) will just be towards my goal of fueling the ☀️ within me.

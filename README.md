@@ -1,7 +1,6 @@
-# it b da Witcher
-<a href="https://dan.archi/" target="_blank">https://dan.archi/</a>
-<br>
+# It b da <a href="https://witcher.fandom.com/wiki/Geralt_of_Rivia" target="_blank">Witcher</a>
 
+<br>
 But seriously, technology is witchcraft 🪄✨ Therefore, we're all magicians performing magic in that regard.
 <br><br> So, welcome to my den. Or inn / plato's cave if you will.
 <br><br>

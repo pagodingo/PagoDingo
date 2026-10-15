@@ -1,5 +1,3 @@
-# It b da 
-
 # 🧙🏾‍♂️ DANIEL "DARCHI" ARCHIBALD
 ### Class: Cloud <a href="https://witcher.fandom.com/wiki/Geralt_of_Rivia" target="_blank">Witcher</a> · Alignment: Chaotic Helpful · Home Base: Orlando, FL 🌴
 

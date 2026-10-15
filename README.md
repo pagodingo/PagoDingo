@@ -24,25 +24,21 @@ Self-taught. No bootcamp, no CS degree, no tutorial dungeon. I learned by shippi
 
 ## ⚔️ Active Quests
 
-- 🔥 **The Quest of money-bagz:** a tiny Vercel app that reports where its function woke up → [try it](ADD-LINK)
-- 🎨 **The v0 Summoning:** a support-ticket dashboard conjured from a single prompt → [behold it](ADD-LINK)
+- 🔥 **The Quest of region-oracle:** a tiny Vercel app that reports where its function woke up → [try it](https://region-oracle.vercel.app/)
+- 🎨 **The v0 Summoning:** a support-ticket dashboard conjured from a single prompt (Vercel's v0) → [behold it](https://v0-ticket-triage-dashboard.vercel.app/)
 - 🧠 **Side quest:** poking LLMs and NLP to see what trouble they can get into
 
 ## 🗺️ Origin Story
 
-I started my adventure in **grocery aisles** and leveled up into cloud infrastructure. [Hear the tale.](https://www.youtube.com/watch?v=DSc6c45sn7A)
+I started my adventure in **grocery aisles** and leveled up into cloud infrastructure. [Listen to the tale here.](https://www.youtube.com/watch?v=DSc6c45sn7A)
 
 I studied neuroscience first, which turns out to be perfect training for figuring out where people and systems get stuck.
 
-## 🎒 Inventory
+## 🎒 Skills / Inventory
 
-`AWS` · `Lambda` · `React` · `Node.js` · `Express` · `SQL` · `OAuth 2.0` · `Splunk` · `Datadog` · `Postman` · `Zero Trust` · `Webhooks`
+`AWS` · `Lambda` · `React` · `Node.js` · `Express` · `SQL` · `OAuth 2.0` · `Splunk` · `Datadog` · `Postman` · `Zero Trust` · `Webhooks`· `OpenIDConnect`
 
-## 🏰 The Den
-
-49 repos live here. Some are polished, some are experiments, and all of them taught me something.
-
-## 🦅 Send a Raven
+## 🦅 Send me a Raven
 
 🌐 [dan.archi](https://dan.archi) · 💼 [LinkedIn](https://linkedin.com/in/daniel-archibald-4213389b)
 
